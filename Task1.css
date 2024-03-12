@@ -1,0 +1,63 @@
+body{
+    background-color: red;
+    margin: 0;
+    padding: 0;
+}
+.container{
+   width: 1400px;
+   height: 1000px;
+   margin-left: 70px;
+   background-color: rgb(245, 226, 200);
+}
+header{
+    width: 97%;
+    height: 10%;
+    margin-left: 20px;
+    background-color: rgb(247, 213, 156);
+    position: relative;
+    top: 15px;
+
+}
+h1{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    color: rgb(12, 119, 12);
+}
+p{
+    width: 50%;
+    margin-left: 20px;
+    background-color: rgb(247, 213, 156);
+    position: relative;
+    top: 15px;
+    padding: 2%;
+  
+}
+div3{
+    float: right;
+    width: 40%;
+    height: 60%;
+    margin-left: 20px;
+    background-color: rgb(247, 213, 156);
+    position: relative;
+    bottom: 59%;
+    right: 3%;
+    left: -1.5%;
+    text-align: center;
+    line-height: 17px;
+   
+}
+footer{
+    height: 4%;
+    background-color: rgb(249, 220, 169);
+}
+#div4{
+    border: 0px solid rgb(249, 220, 169);
+    width: 93.5%;
+    height: 1%;
+    margin-left: 10px;
+    background-color: rgb(247, 213, 156);
+    position: relative;
+    top: 15px;
+    left: 5px;
+}
